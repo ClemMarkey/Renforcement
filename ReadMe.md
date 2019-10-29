@@ -17,13 +17,11 @@ En suivant [ce lien](POO/programmation-objet.md) vous aurez accès à une fiche 
 
 Cette section est divisée en trois parties:
 
-* [La première](DataBase/BDD.md) réintroduit de façon succinte la notion de **Système de Gestion de Bases de Données Relationnelles** (SGBDR). 
+* [La première](DataBase/bdd.md) réintroduit de façon succinte la notion de **Système de Gestion de Bases de Données Relationnelles** (SGBDR). 
 
 * [La deuxième](DataBase/pdo.md) parle de la classe **PDO** (PHP Data Objects) qui permet de faire l'interface entre votre PHP et votre base de données. Elle permet de d'assurer la connection avec votre BDD et sera primordiale pour l'exécution de vos requêtes.
 
 * [La troisième](DataBase/sql.md) entre dans le vif du sujet et présente le **langage SQL**. De la lecture en passant par les conditions, la création
-
-
 
 
 ## Credits
