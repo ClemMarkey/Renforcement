@@ -27,7 +27,11 @@ Cette section est divisée en trois parties:
 
 * [La troisième](DataBase/sql.md) entre dans le vif du sujet et présente le **langage SQL**. De la lecture en passant par les conditions, la création
 
+## Les exercices
 
+Vous pouvez trouver ici les exercices préparés par nos soins pour vos petites têtes bien faites. <3
+
+[Exercice SQL](DataBase/Exercice_SQL)
 
 
 ## Credits
