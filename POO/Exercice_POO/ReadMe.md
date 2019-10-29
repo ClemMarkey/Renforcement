@@ -54,7 +54,7 @@ Sortie:
 
 ---
 
-*N'hésitez pas à poser des questions, proposer des amélioration possibles ou bien même à aller loin dans vos délires !*
+*N'hésitez pas à poser des questions, proposer des améliorations ou bien même à aller loin dans vos délires !*
 
 **Bisous**
 
