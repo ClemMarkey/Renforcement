@@ -10,7 +10,7 @@ Ce n'est **pas** un cours de soutien mais voyez plutôt cela comme un rappel des
 
 ## Programmation Orientée Objet (POO)
 
-En suivant [ce lien](POO/programmation-objet.md) vous aurez accès à une fiche récap _très complète_ sur la POO.
+En suivant [ce lien](POO/programmation-objet.md) vous aurez accès à une fiche récap _très complète_ sur la POO. De ses avantages, à ce que ça représente concrètement puis, *évidemment* sa définition et comment l'utiliser.
 
 
 ## SQL
