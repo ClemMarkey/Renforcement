@@ -10,7 +10,11 @@ Ce n'est **pas** un cours de soutien mais voyez plutôt cela comme un rappel des
 
 ## Programmation Orientée Objet (POO)
 
-En suivant [ce lien](POO/programmation-objet.md) vous aurez accès à une fiche récap _très complète_ sur la POO. De ses avantages, à ce que ça représente concrètement puis, *évidemment* sa définition et comment l'utiliser.
+* En suivant [ce lien](POO/programmation-objet.md) vous aurez accès à une fiche récap _très complète_ sur la POO. De ses avantages, à ce que ça représente concrètement puis, *évidemment* sa définition et comment l'utiliser.
+
+* [Ici](POO/namespace.md) vous trouverez ce dont vous avez besoin de savoir concernant les namespaces.
+
+* [Et là](POO/heritage.md) vous aurez toutes les informations bonnes à savoir sur la notion d'héritage.
 
 
 ## SQL
@@ -22,6 +26,8 @@ Cette section est divisée en trois parties:
 * [La deuxième](DataBase/pdo.md) parle de la classe **PDO** (PHP Data Objects) qui permet de faire l'interface entre votre PHP et votre base de données. Elle permet de d'assurer la connection avec votre BDD et sera primordiale pour l'exécution de vos requêtes.
 
 * [La troisième](DataBase/sql.md) entre dans le vif du sujet et présente le **langage SQL**. De la lecture en passant par les conditions, la création
+
+
 
 
 ## Credits
