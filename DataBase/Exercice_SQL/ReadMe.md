@@ -24,4 +24,6 @@ Pour ce faire: Connectez-vous à PMA, créez une base et **importez** le fichier
 
 **Créer un formulaire** permettant d'ajouter un jeu à la liste.
 
-### Ne pas hésiter à le (re)faire, même si vous avez déjà les bases. Une piqûre de rappel est toujours bonne à prendre. **#LesVaccins**
+---
+
+ *Ne pas hésiter à le (re)faire, même si vous avez déjà les bases. Une piqûre de rappel est toujours bonne à prendre. **#LesVaccins***

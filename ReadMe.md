@@ -31,7 +31,8 @@ Cette section est divisée en trois parties:
 
 Vous pouvez trouver ici les exercices préparés par nos soins pour vos petites têtes bien faites. <3
 
-[Exercice SQL](DataBase/Exercice_SQL)
+* Voici ici [l'exercice SQL](DataBase/Exercice_SQL) dans lequel vous installerez une base de données et la manipulerez.
+* Vous trouverez là [l'exercice POO](POO/Exercice_POO) dans lequel
 
 
 ## Credits
