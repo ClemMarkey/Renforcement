@@ -91,7 +91,7 @@ Partant de cet exemple simple de boutique :
 >
 > Les **produits** possèdent un nom et un prix
 
-![schema boutique](img/schema_boutique.png)
+![schema boutique](../img/schema_boutique.png)
 
 ### 1:1 *one to one*
 
@@ -99,7 +99,7 @@ Partant de cet exemple simple de boutique :
 
 > Le lien entre notre **client** et notre **fiche client** est assuré par une clé étrangère dans la table `clients` grâce au champ `clients.fiche_id` faisant référence à la table `fiches_client` et au champ `fiches_client.id`
 
-<img src="img/1-1.png" alt="1:1" width="400">
+<img src="../img/1-1.png" alt="1:1" width="400">
 
 ### 1:n *one to many*
 
@@ -108,7 +108,7 @@ Partant de cet exemple simple de boutique :
 > Le lien entre notre **client** et ses **commandes** est assuré par une clé étrangère dans la table `commandes` grâce au champ `commandes.client_id` faisant référence à la table `client` et au champ `clients.id`
 
 
-<img src="img/1-n.png" alt="1:n" width="200">
+<img src="../img/1-n.png" alt="1:n" width="200">
 
 
 ### n:n *many to many*
@@ -117,7 +117,7 @@ Partant de cet exemple simple de boutique :
 
 > Le lien entre nos **commandes** et ses **produits** est assuré par une  table d'association `commande_produit` qui va regrouper des clés étrangères. `produit_id` fait référence à la table `produit` et au champ `produit.id` et `commande_id` fait référence à la table `commandes` et au champ `commande.id`
 
-<img src="img/n-n.png" alt="n:n" width="600">
+<img src="../img/n-n.png" alt="n:n" width="600">
 
 ---
 

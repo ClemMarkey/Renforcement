@@ -29,3 +29,5 @@ Cette section est divisée en trois parties:
 ## Credits
 
 O'clock: fiches récapitulatives perso.
+
+<img src="img/thanks.gif" alt="n:n" width="600">

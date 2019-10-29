@@ -157,7 +157,7 @@ class Person
 
 En programmation, l'encapsulation désigne le principe de regrouper des données avec un ensemble de méthodes permettant de les lire ou de les manipuler, empêchant l'accès aux données par un autre moyen que les services proposés. L'encapsulation permet donc de garantir l'intégrité des données contenues dans l'objet.
 
-![encapsulation](img/encapsulation.png)
+![encapsulation](../img/encapsulation.png)
 
 > Toujours préférer `private` quand c'est possible, pour préserver l'encapsulation, le contrôle d'accès aux données de l'objet.
 
